@@ -1,18 +1,15 @@
 {
-  "name": "file_sharing_app",
+  "name": "fisor",
   "version": "1.0.0",
-  "description": "Secured_Sharing",
+  "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Raunak",
+  "author": "tanveeersinghh",
+  "type": "module",
   "license": "ISC",
   "bin": {
-    "valala": "main.js"
-  },
-  "dependencies": {
-    "express": "^4.17.2",
-    "socket.io": "^4.4.0"
+    "HeyEdin": "main.js"
   }
 }
